@@ -3,7 +3,7 @@ src="https://raw.githubusercontent.com/gist/carolcostas/b21a3563dccebd4ea03f97fd
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Carol </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=carolcostas&color=yellow" alt="Profile views" /> </p>
 
-Tenho 23 anos e sou Desenvolvedora de Software em formação pela Cubos Academy, estou focada no meu desenvolvimento prossional e espero ter muito a compartilhar por aqui.
+Tenho 23 anos e sou Desenvolvedora de Software em formação pela Cubos Academy, estou focada no meu desenvolvimento profissional e espero ter muito a compartilhar por aqui.
 
 <!--
 
